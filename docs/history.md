@@ -47,7 +47,7 @@ These include the [csvkit][] command-line tool for data wrangling and [Django][]
 
 Some fairly popular web technologies also grew up adjacent to the news. They include [Backbone.js][], [CoffeeScript][] and [Underscore.js][] -- the creations of Jeremy Ashkenas, a former member of The New York Times graphics desk and original developer of [DocumentCloud][]. 
 
-Mike Bostock, a Stanford alumnus and former New York Times graphics developer, created [D3.js][], a tool used in newsrooms and beyond to create rich, interactive data visualizations on the web.
+Mike Bostock, a Stanford alumnus and former New York Times graphics developer, created [D3.js][], a tool used in newsrooms and beyond to create rich, interactive data visualizations on the web. More recently, he founded the [Observable][] platform for collaborative data exploration, analysis and visualization..
 
 [csvkit]: https://csvkit.readthedocs.io/en/latest/
 [Django]: https://www.djangoproject.com/
@@ -56,6 +56,7 @@ Mike Bostock, a Stanford alumnus and former New York Times graphics developer, c
 [Underscore.js]: https://underscorejs.org/
 [DocumentCloud]: https://www.documentcloud.org/
 [D3.js]: https://d3js.org/
+[Observable]: https://observablehq.com/
 
 ## From CAR to data journalism
 
