@@ -37,6 +37,12 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 * [Tech setup](tech_setup.md) through the Python section (stop before `Configure` step)
 * **[Assignment 0](assignments/bash_intro.md)** - Unix practice and failed banks script
 
+### Week 2
+
+#### Day 3 - MLK Day
+
+No class.
+
 
 [Final Project]: projects/sf_data_analysis.md
 [FDA Recalls project]: projects/fda_recall_entities.md
