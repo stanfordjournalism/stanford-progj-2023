@@ -33,8 +33,8 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 * [The Owl, Problem Solving, and the Unix Workbench](docs/owl_probs_unix.md)
 * [Bash intro](https://tinyurl.com/bash-intro)
 * [Bash drill](exercises/bash_drill.md)
+* [Tech setup](tech_setup.md) through the Python section (stop before `Configure` step)
 * **[Assignment 0](assignments/bash_intro.md)** - Unix practice and failed banks script
-
 
 
 
