@@ -43,6 +43,16 @@ Sundry notes and code bits for Stanford's Programming in Journalism class (COMM 
 
 No class.
 
+#### Day 4 - Python Intro
+
+* Review [Assignment 0 (failed banks)](assignments/bash_intro.md) if everyone submitted...
+* [Bash drill](exercises/bash_drill.md) - Yep. Again. This time using the "Blind-folded" and "Plain English" [variations](exercises/bash_drill.md#variations-on-the-drill).
+* [Python Intro and resources](docs/python) links to misc docs/tutorials on this GitHub repo
+* [Python overview and coding contexts](docs/python/overview.md)
+* [Software installs](docs/tech_setup.md) -- everyone must have Python installed and GitHub configured by end of class.
+* **[Assignment 1](assignments/python_intro.md)** - Python reading/practice and code challenge
+* **[Assignment 2](assignments/python_lists_dicts.md)** - Python lists/dicts and DataKit overview
+
 
 [Final Project]: projects/sf_data_analysis.md
 [FDA Recalls project]: projects/fda_recall_entities.md
