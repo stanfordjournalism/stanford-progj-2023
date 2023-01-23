@@ -54,6 +54,25 @@ No class.
 * **[Assignment 1](assignments/python_intro.md)** - Python reading/practice and code challenge
 * **[Assignment 2](assignments/python_lists_dicts.md)** - Python lists/dicts and DataKit overview
 
+
+### Week 3
+
+#### Day 5 - Python Intro
+
+* [Bash drill](exercises/bash_drill.md) - Yep. Again. This time using the "Blind-folded" and "Plain English" [variations](exercises/bash_drill.md#variations-on-the-drill).
+* Questions about [Assignment 1](assignments/python_intro.md)? It covered a lot of important fundamentals:
+  - Python interactive shell
+  - Expressions
+  - Basic data types
+  - Variables
+  - Flow control (conditions and blocks, if/else/elif etc.)
+* Questions on [Assignment 2](assignments/python_lists_dicts.md) on Python lists/dicts?
+* [Dictionaries crash course](docs/python/dict_basics.md)
+* [Reading and writing text files](docs/python/file_io.md)
+* Choose-your-own adventure pair coding challenge (election data or covid in prisons)
+* **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
+
+
 [Final Project]: projects/sf_data_analysis.md
 [FDA Recalls project]: projects/fda_recall_entities.md
 
