@@ -4,11 +4,10 @@
 
 Below is a code challenge designed to help you practice a variety of skills:
 
-- Downloading data using `requests`
-- Writing a file to local disk
-- Reading a file using the `csv` module
-- Generating summary data using `dicts`
-- Writing a file using the `csv` module
+- [Download remote data](/docs/python/remote_files.md)
+- [Write data to a text file](docs/python/file_io.md) to local disk
+- [Read and write CSV files](/docs/python/csv.md)
+- [Generate summary data](docs/python/dict_basics.md) using `dicts`
 
 > Yes, you *could* use the `pandas` library to arguably simplify these tasks, but the point is to get some reps using these more basic Python tools and workflows.
 

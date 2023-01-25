@@ -73,12 +73,12 @@ No class.
 
 #### Day 6 - Python Intro Part Deux
 
+* Complete [configuration steps](docs/tech_setup.md#configure) for ssh and DataKit
 * [Reading and writing text files](docs/python/file_io.md) - Review how to write text files
 * Libraries - Overview and practice practical skills
   * Learn how to use [code libraries](/docs/python/libraries.md) included with Python or offered by third parties
   * Learn how to [download remote files](/docs/python/remote_files.md)
   * Learn how to [work with CSVs](/docs/python/csv.md)
-* Complete [configuration steps](docs/tech_setup.md#configure) for ssh and DataKit
 * Election data [code challenge](exercises/elex_challenge.md)
 * **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
 
