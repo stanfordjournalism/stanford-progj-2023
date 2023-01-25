@@ -68,7 +68,17 @@ No class.
   - Flow control (conditions and blocks, if/else/elif etc.)
 * Questions on [Assignment 2](assignments/python_lists_dicts.md) on Python lists/dicts?
 * [Dictionaries crash course](docs/python/dict_basics.md)
-* [Reading and writing text files](docs/python/file_io.md)
+* [Reading and writing text files](docs/python/file_io.md) - How to read text files
+* **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
+
+#### Day 6 - Python Intro Part Deux
+
+* [Reading and writing text files](docs/python/file_io.md) - Review how to write text files
+* Libraries - Overview and practice practical skills
+  * Learn how to use [code libraries](/docs/python/libraries.md) included with Python or offered by third parties
+  * Learn how to [download remote files](/docs/python/remote_files.md)
+  * Learn how to [work with CSVs](/docs/python/csv.md)
+* Complete [configuration steps](docs/tech_setup.md#configure)
 * Choose-your-own adventure pair coding challenge (election data or covid in prisons)
 * **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
 
