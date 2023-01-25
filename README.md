@@ -57,7 +57,7 @@ No class.
 
 ### Week 3
 
-#### Day 5 - Python Intro
+#### Day 5 - Python Intro Part 2
 
 * [Bash drill](exercises/bash_drill.md) - Yep. Again. This time using the "Blind-folded" and "Plain English" [variations](exercises/bash_drill.md#variations-on-the-drill).
 * Questions about [Assignment 1](assignments/python_intro.md)? It covered a lot of important fundamentals:
@@ -71,7 +71,7 @@ No class.
 * [Reading and writing text files](docs/python/file_io.md) - How to read text files
 * **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
 
-#### Day 6 - Python Intro Part Deux
+#### Day 6 - Python Intro Part 3
 
 * Complete [configuration steps](docs/tech_setup.md#configure) for ssh and DataKit
 * [Reading and writing text files](docs/python/file_io.md) - Review how to write text files
@@ -81,6 +81,7 @@ No class.
   * Learn how to [work with CSVs](/docs/python/csv.md)
 * Election data [code challenge](exercises/elex_challenge.md)
 * **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
+
 
 
 [Final Project]: projects/sf_data_analysis.md
