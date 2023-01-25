@@ -73,6 +73,7 @@ No class.
 
 #### Day 6 - Python Intro Part 3
 
+* [Bash drill](exercises/bash_drill.md) - Yep. Again. This time using the "Blind-folded" and "Plain English" [variations](exercises/bash_drill.md#variations-on-the-drill).
 * Complete [configuration steps](docs/tech_setup.md#configure) for ssh and DataKit
 * [Reading and writing text files](docs/python/file_io.md) - Review how to write text files
 * Libraries - Overview and practice practical skills
@@ -81,7 +82,6 @@ No class.
   * Learn how to [work with CSVs](/docs/python/csv.md)
 * Election data [code challenge](exercises/elex_challenge.md)
 * **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
-
 
 
 [Final Project]: projects/sf_data_analysis.md
