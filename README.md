@@ -78,8 +78,8 @@ No class.
   * Learn how to use [code libraries](/docs/python/libraries.md) included with Python or offered by third parties
   * Learn how to [download remote files](/docs/python/remote_files.md)
   * Learn how to [work with CSVs](/docs/python/csv.md)
-* Complete [configuration steps](docs/tech_setup.md#configure)
-* Choose-your-own adventure pair coding challenge (election data or covid in prisons)
+* Complete [configuration steps](docs/tech_setup.md#configure) for ssh and DataKit
+* Election data [code challenge](exercises/elex_challenge.md)
 * **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
 
 
