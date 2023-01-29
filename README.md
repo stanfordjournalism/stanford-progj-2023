@@ -77,11 +77,33 @@ No class.
 * Complete [configuration steps](docs/tech_setup.md#configure) for ssh and DataKit
 * [Reading and writing text files](docs/python/file_io.md) - Review how to write text files
 * Libraries - Overview and practice practical skills
-  * Learn how to use [code libraries](/docs/python/libraries.md) included with Python or offered by third parties
-  * Learn how to [download remote files](/docs/python/remote_files.md)
-  * Learn how to [work with CSVs](/docs/python/csv.md)
-* Election data [code challenge](exercises/elex_challenge.md)
+  * Learn how to use [code libraries][] included with Python or offered by third parties
+  * Learn how to [download remote files][]
+  * Learn how to [work with CSVs][]
+* Election data [code challenge][]
 * **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
+
+
+[code libraries]: /docs/python/libraries.md
+[download remote files]: /docs/python/remote_files.md
+[work with CSVs]: /docs/python/csv.md
+[code challenge]: exercises/elex_challenge.md
+
+
+### Week 4
+
+#### Day 7 - Automating Workflows and DataKit
+
+* Questions about [code libraries][], how to [download remote files][] and [work with CSVs][]?
+* Questions about [code challenge][]?
+* [Automating workflows](docs/automating_workflows.md)
+* Overview of [DataKit][]
+* Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit][]
+* Wherefore, [virtual environments][] and [pipenv][]?
+* Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**due by next class**)
+
+[Tmux]: https://en.wikipedia.org/wiki/Tmux
+[Pair programming]: https://en.wikipedia.org/wiki/Pair_programming
 
 
 [Final Project]: projects/sf_data_analysis.md
