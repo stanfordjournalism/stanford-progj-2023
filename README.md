@@ -102,6 +102,8 @@ No class.
 * Wherefore, [virtual environments][] and [pipenv][]?
 * Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**due by next class**)
 
+[virtual environments]: https://realpython.com/pipenv-guide/
+[pipenv]: https://pipenv.pypa.io/en/latest/
 [Tmux]: https://en.wikipedia.org/wiki/Tmux
 [Pair programming]: https://en.wikipedia.org/wiki/Pair_programming
 
