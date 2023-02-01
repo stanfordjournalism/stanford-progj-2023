@@ -103,7 +103,7 @@ No class.
 * Wherefore, [virtual environments][] and [pipenv][]?
 * [The Art of Writing Functions](/docs/python/art_of_functions.md)
 * Continue work on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**now due by Sunday**)
-* **[Assignment 4](assignments/python_functions_sorting_web_basics.md)** - Level up on Python functions, sorting and web basics (**due by next class**)
+* **[Assignment 4](assignments/python_functions_sorting.md)** - Level up on Python functions, sorting and web basics (**due by next class**)
 
 
 [code libraries]: /docs/python/libraries.md
