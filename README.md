@@ -97,13 +97,12 @@ No class.
 * Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit][]
 * Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)**
 
-
-### Day 8 - Python environment and the Art of Functions Intro
+#### Day 8 - Python environment and the Art of Functions Intro
 
 * Wherefore, [virtual environments][] and [pipenv][]?
 * [The Art of Writing Functions](/docs/python/art_of_functions.md)
 * Continue work on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**now due by Sunday**)
-* **[Assignment 4](assignments/python_functions_sorting.md)** - Level up on Python functions, sorting and web basics (**due by next class**)
+* **[Assignment 4](assignments/python_functions_sorting.md)** - Level up on Python functions, sorting (**due by next class**)
 
 
 [code libraries]: /docs/python/libraries.md
