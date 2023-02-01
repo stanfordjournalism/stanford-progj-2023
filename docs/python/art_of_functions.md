@@ -27,7 +27,7 @@ def download_json():
     # code that downloads JSON
     # and saves it to local file
     pass
-    
+
 def convert_json(json_file):
     # code that reads JSON file
     # and converts to a CSV

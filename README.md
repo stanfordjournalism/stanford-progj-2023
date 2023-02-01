@@ -84,10 +84,6 @@ No class.
 * **[Assignment 3](assignments/libraries_and_fdic_py.md)** - Practical Python skills and Failed Banks in Python
 
 
-[code libraries]: /docs/python/libraries.md
-[download remote files]: /docs/python/remote_files.md
-[work with CSVs]: /docs/python/csv.md
-[code challenge]: exercises/elex_challenge.md
 
 
 ### Week 4
@@ -99,16 +95,26 @@ No class.
 * [Automating workflows](docs/automating_workflows.md)
 * Overview of [DataKit][]
 * Complete Tech Setup [configuration](docs/tech_setup.md#configure) and install [DataKit][]
-* Wherefore, [virtual environments][] and [pipenv][]?
-* Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**due by next class**)
+* Continue work in-class on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)**
 
+
+### Day 8 - Python environment and the Art of Functions Intro
+
+* Wherefore, [virtual environments][] and [pipenv][]?
+* [The Art of Writing Functions](/docs/python/art_of_functions.md)
+* Continue work on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**now due by Sunday**)
+* **[Assignment 4](assignments/python_functions_sorting_web_basics.md)** - Level up on Python functions, sorting and web basics (**due by next class**)
+
+
+[code libraries]: /docs/python/libraries.md
+[download remote files]: /docs/python/remote_files.md
+[work with CSVs]: /docs/python/csv.md
+[code challenge]: exercises/elex_challenge.md
+[Final Project]: projects/sf_data_analysis.md
+[FDA Recalls project]: projects/fda_recall_entities.md
+[DataKit]: docs/datakit.md
 [virtual environments]: https://realpython.com/pipenv-guide/
 [pipenv]: https://pipenv.pypa.io/en/latest/
 [Tmux]: https://en.wikipedia.org/wiki/Tmux
 [Pair programming]: https://en.wikipedia.org/wiki/Pair_programming
 
-
-[Final Project]: projects/sf_data_analysis.md
-[FDA Recalls project]: projects/fda_recall_entities.md
-
-[DataKit]: docs/datakit.md
