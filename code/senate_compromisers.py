@@ -56,7 +56,7 @@ def get_members_data(api_key):
     headers = {'X-API-Key': api_key }
 
     # The URL for the Members endpoint
-    url = "https://api.propublica.org/congress/v1/117/senate/members.json"
+    url = "https://api.propublica.org/congress/v1/118/senate/members.json"
 
     # TODO: Use requests to call the API
     # This is a bit more involved than our usual requests.get call.

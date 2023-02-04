@@ -36,7 +36,7 @@ Below are detailed instructions on how to proceed.
 
 ### Get an API key
 
-Sign up for a [ProPublica API Key](https://www.propublica.org/datastore/api/propublica-congress-api). In the web registration form, state that you plan to use the API for "data journalism course work at Stanford University". **Make sure you stash away the key and do not lose it!** You'll need the key for the next assignment!
+Sign up for a [ProPublica API Key](https://www.propublica.org/datastore/api/propublica-congress-api). In the web registration form, state that you plan to use the API for "data journalism course work at Stanford University". **Make sure you stash away the key and do not lose it!**
 
 
 ### Create a datakit project
@@ -68,13 +68,14 @@ Now open the `.env` file and save your new API key as follows:
 > Here's how to [edit hidden files on a Mac](/docs/tech_faq.md#how-do-i-edit-hidden-files-on-a-mac).
 
 ```
-# Below line goes in senata-compromisers/.env
+# Below line goes in senate-compromisers/.env
 PROPUBLICA_API_KEY="YOUR_API_KEY"
 ```
 
 After adding the key, it should be accessible **whenever you activate the project's virtual environment**:
 
 ```
+cd senate-compromisers/
 pipenv shell
 printenv | grep PROPUBLICA_API_KEY
 ```
