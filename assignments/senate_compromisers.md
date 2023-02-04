@@ -32,12 +32,14 @@ Your task is to find the five members of both parties who are **most likely** to
 
 Below are detailed instructions on how to proceed.
 
-## Get an API key
+## Setup
+
+### Get an API key
 
 Sign up for a [ProPublica API Key](https://www.propublica.org/datastore/api/propublica-congress-api). In the web registration form, state that you plan to use the API for "data journalism course work at Stanford University". **Make sure you stash away the key and do not lose it!** You'll need the key for the next assignment!
 
 
-## Create a datakit project
+### Create a datakit project
 
 Create a new [DataKit](../docs/datakit.md) project named `Senate Compromisers`. This should produce a local directory and related GitHub project called `senate-compromisers`.
 
@@ -51,7 +53,7 @@ cd senate-compromisers
 pipenv install requests
 ```
 
-## Store the API key
+### Store the API key
 
 Inside the new `senate-compromisers` folder, create a file called `.env`:
 
@@ -77,7 +79,7 @@ pipenv shell
 printenv | grep PROPUBLICA_API_KEY
 ```
 
-## Write the script
+### Download the script
 
 Download the [`senate_compromisers.py`](/code/senate_compromisers.py) starter script and save it to your project's `scripts/` directory. Remember, you need to click the "Raw" button on GitHub to get access to a plain-text version of the file for download.
 
