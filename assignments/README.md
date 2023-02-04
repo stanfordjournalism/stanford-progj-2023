@@ -11,6 +11,9 @@ Assignment|Description|Solution
 [Assignment 2][] | Python lists and dicts; DataKit overview | N/A
 [Assignment 3][] | Practical Python skills and FDIC Python | [:link:](https://github.com/zstumgoren/stanford-progj-2023-solutions/tree/main/fdic_py)
 [Assignment 4][] | Python functions and sorting | N/A
+[Assignment 5][] | Senate compromisers script | [:link:](https://github.com/zstumgoren/stanford-progj-2023-solutions/blob/main/propub_senate_api/senate_compromisers.py)
+[Assignment 6][] | Final project story pitch | N/A
+
 
 
 

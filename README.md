@@ -104,6 +104,23 @@ No class.
 * Continue work on **[Assignment 3 - FDIC python script](assignments/libraries_and_fdic_py.md)** (**now due by Sunday**)
 * **[Assignment 4](assignments/python_functions_sorting.md)** - Level up on Python functions, sorting (**due by next class**)
 
+### Week 5
+
+#### Day 9
+
+* Review and questions related to [functions](/docs/python/art_of_functions.md)
+* [APIs and the News](/docs/apis_and_the_news.md) overview and [presentation](https://tinyurl.com/apis-and-the-news)
+* [Working with APIs](/docs/python/working_with_apis.md)
+* [Quakebot exercise](/exercises/quakebot.md) - hands-on practice with a JSON feed
+* **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
+
+#### Day 10
+
+* [Quakebot exercise](/exercises/quakebot.md) solutions?
+* **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
+* **[Assignment 6](/assignments/final_project_story_idea.md)** - Final project story idea pitches
+
+
 
 [code libraries]: /docs/python/libraries.md
 [download remote files]: /docs/python/remote_files.md
