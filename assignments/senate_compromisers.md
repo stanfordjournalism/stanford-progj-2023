@@ -32,31 +32,10 @@ Your task is to find the five members of both parties who are **most likely** to
 
 Below are detailed instructions on how to proceed.
 
-## Setup
-
-### Get an API key
+## Get an API key
 
 Sign up for a [ProPublica API Key](https://www.propublica.org/datastore/api/propublica-congress-api). In the web registration form, state that you plan to use the API for "data journalism course work at Stanford University". **Make sure you stash away the key and do not lose it!** You'll need the key for the next assignment!
 
-### Store the API key
-
-Store the following code in `~/.bash_profile` if you're on a Mac or, if you're on Linux, in `~/.bashrc`. You'll need to replace `your_api_key` with the actual key:
-
-> Here's how to [edit hidden files on a Mac](/docs/tech_faq.md#how-do-i-edit-hidden-files-on-a-mac).
-
-```
-# Below line goes in your ~/.bash_profile
-export PROPUBLICA_API_KEY="your_api_key"
-```
-
-After adding the key, you should test that it is accessible by opening a new shell and executing the following command:
-
-```
-printenv | grep PROPUBLICA
-PROPUBLICA_API_KEY=your_api_key
-```
-
-If you have problems with this step, please refer to [Using environment variables to store secrets](/docs/python/using_env_vars_for_secrets.md) or reach out for help.
 
 ## Create a datakit project
 
@@ -72,16 +51,44 @@ cd senate-compromisers
 pipenv install requests
 ```
 
+## Store the API key
+
+Inside the new `senate-compromisers` folder, create a file called `.env`:
+
+```
+touch .env
+```
+
+Now open the `.env` file and save your new API key as follows:
+
+> You'll need to replace `YOUR_API_KEY` with the actual key:
+
+> Here's how to [edit hidden files on a Mac](/docs/tech_faq.md#how-do-i-edit-hidden-files-on-a-mac).
+
+```
+# Below line goes in senata-compromisers/.env
+PROPUBLICA_API_KEY="YOUR_API_KEY"
+```
+
+After adding the key, it should be accessible **whenever you activate the project's virtual environment**:
+
+```
+pipenv shell
+printenv | grep PROPUBLICA_API_KEY
+```
+
+## Write the script
+
 Download the [`senate_compromisers.py`](/code/senate_compromisers.py) starter script and save it to your project's `scripts/` directory. Remember, you need to click the "Raw" button on GitHub to get access to a plain-text version of the file for download.
 
 Don't forget, when testing your script on the command line, you should always activate the virtual environment first:
 
 ```
-# Activate the environment
+# Activate the environment from the top folder in the project
 cd senate-compromisers/
 pipenv shell
 
-# Run the script
+# Navigate to scripts and run the code
 cd scripts/
 python senate_compromisers.py
 ```
