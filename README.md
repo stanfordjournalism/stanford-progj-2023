@@ -108,7 +108,7 @@ No class.
 
 #### Day 9
 
-* Review and questions related to [functions](/docs/python/art_of_functions.md)
+* Review/questions on [functions/sorting (Assignment 4)](assignments/python_functions_sorting.md)
 * [APIs and the News](/docs/apis_and_the_news.md) overview and [presentation](https://tinyurl.com/apis-and-the-news)
 * [Working with APIs](/docs/python/working_with_apis.md)
 * [Quakebot exercise](/exercises/quakebot.md) - hands-on practice with a JSON feed
@@ -119,7 +119,6 @@ No class.
 * [Quakebot exercise](/exercises/quakebot.md) solutions?
 * **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
 * **[Assignment 6](/assignments/final_project_story_idea.md)** - Final project story idea pitches
-
 
 
 [code libraries]: /docs/python/libraries.md
