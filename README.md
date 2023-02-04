@@ -109,6 +109,7 @@ No class.
 #### Day 9
 
 * Review/questions on [functions/sorting (Assignment 4)](assignments/python_functions_sorting.md)
+  * Orchestrating functions with `main`
 * [APIs and the News](/docs/apis_and_the_news.md) overview and [presentation](https://tinyurl.com/apis-and-the-news)
 * [Working with APIs](/docs/python/working_with_apis.md)
 * [Quakebot exercise](/exercises/quakebot.md) - hands-on practice with a JSON feed
