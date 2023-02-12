@@ -121,6 +121,23 @@ No class.
 * **[Assignment 5](assignments/senate_compromisers.md)** - Senate compromisers Python script
 * **[Assignment 6](/assignments/final_project_story_idea.md)** - Final project story idea pitches
 
+### Week 6
+
+#### Day 11 - Web scraping for the news
+
+* [Web scraping for the news](/docs/web_scraping/README.md) - a high-level overview of web scraping in a news context.
+* [Web scraping 101](/docs/web_scraping/101.md) - how to dissect a website, various obstacles to scraping and strategies for overcoming them
+* [Web scraping exercises](/docs/web_scraping/exercises.md) - some websites to challenge your newfound scraping skills
+* [Web scraping resources](/docs/web_scraping/resources.md) - tutorials, etc.
+
+#### Day 12 - API Services and Data Pipelines with Modules
+
+* [Data Pipelines with Modules](/docs/python/data_pipelines_with_modules.md)
+* [API Services](/docs/api_services.md)
+* [Refinitiv Entity Extraction](/code/refinitiv_example/README.md)
+* **[Project (extra credit): FDA Recall Entities](/projects/fda_recall_entities.md)** - Scrape FDA recalls and extract entities using the OpenCalais/Refinitiv API
+* **[Assignment 9](/assignments/first_notebook.md)** - First Python Notebook
+
 
 [code libraries]: /docs/python/libraries.md
 [download remote files]: /docs/python/remote_files.md
