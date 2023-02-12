@@ -13,8 +13,7 @@ Assignment|Description|Solution
 [Assignment 4][] | Python functions and sorting | N/A
 [Assignment 5][] | Senate compromisers script | [:link:](https://github.com/zstumgoren/stanford-progj-2023-solutions/blob/main/propub_senate_api/senate_compromisers.py)
 [Assignment 6][] | Final project story pitch | N/A
-
-
+[Assignment 7][] | Web Scraping Ramp Up | N/A
 
 
 [Assignment 0]: bash_intro.md
@@ -24,7 +23,7 @@ Assignment|Description|Solution
 [Assignment 4]: python_functions_sorting.md
 [Assignment 5]: senate_compromisers.md
 [Assignment 6]: final_project_story_idea.md
-[Assignment 7]: final_project_story_idea.md
+[Assignment 7]: web_scraping_ramp_up.md
 [Assignment 8]: first_notebook.md
 [Assignment 9]: dj_intro.md
 
