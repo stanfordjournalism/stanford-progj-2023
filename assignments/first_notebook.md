@@ -57,7 +57,7 @@ cd first-python-notebook
 pipenv install jupyterlab pandas altair
 ```
 
-[First Python Notebook]: http://www.firstpythonnotebook.org/
+[First Python Notebook]: https://first-python-notebook.readthedocs.io/
 [pandas]: https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide
 
 ## Starting Jupyter Lab
