@@ -22,5 +22,5 @@ Here are a few of the most popular workhorses in the Python community for web sc
 
 -   [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Mozilla)
 -   [BeautifulSoup - HTML and XML](http://2017.compciv.org/guide/topics/python-nonstandard-libraries/beautifulsoup.html)
--   Automate the Boring Stuff - [HTML section](https://automatetheboringstuff.com/chapter11/#calibre_link-2937) of Chapter 11
+-   Automate the Boring Stuff - [HTML section](https://automatetheboringstuff.com/2e/chapter12/#calibre_link-382) of Chapter 12
 -   [Inspecting the Web with Chrome's Dev Tools](http://www.compjour.org/tutorials/intro-to-the-web-inspector/) - work through all three sections for a primer on HTML, CSS and Dev Tools
