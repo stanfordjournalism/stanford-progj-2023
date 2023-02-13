@@ -12,7 +12,7 @@ To lift the hood on a website and see how it works, you'll need to use a browser
 
 Here are a few of the most popular workhorses in the Python community for web scraping tasks:
 
--   [requests](https://2.python-requests.org/en/master/) to fetch web pages/files
+-   [requests](https://requests.readthedocs.io/en/latest/) to fetch web pages/files
 -   [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) for parsing HTML
 -   [lxml](https://lxml.de/) for more serious HTML/XML parsing firepower (it's a "heavy" install but offers more speed and features than BeautifulSoup)
 -   [Selenium](https://selenium-python.readthedocs.io/index.html) for [stateful web scraping](101.md#stateful-web-scraping) and working with dynamic page content (among other thorny issues)
