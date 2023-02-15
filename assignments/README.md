@@ -14,6 +14,9 @@ Assignment|Description|Solution
 [Assignment 5][] | Senate compromisers script | [:link:](https://github.com/zstumgoren/stanford-progj-2023-solutions/blob/main/propub_senate_api/senate_compromisers.py)
 [Assignment 6][] | Final project story pitch | N/A
 [Assignment 7][] | Web Scraping Ramp Up | N/A
+[Assignment 8][] | First Python Notebook | N/A
+[Assignment 9][] | Data Journalism Intro | N/A
+[FDA Recalls][] | FDA Recalls extra credit | N/A
 
 
 [Assignment 0]: bash_intro.md
