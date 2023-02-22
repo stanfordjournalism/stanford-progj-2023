@@ -139,6 +139,21 @@ No class.
 * **[Assignment 9](/assignments/dj_intro.md)** - Data Journalism intro reading
 * **[Project (extra credit): FDA Recall Entities](/projects/fda_recall_entities.md)** - Scrape FDA recalls and extract entities using the OpenCalais/Refinitiv API
 
+### Week 7
+
+#### Day 13 - Data Journalism Intro and Jupyter/Pandas
+
+* Discuss [data journalism readings](/assignments/dj_intro.md)
+* [Whirlwind Tour of the Data Journalism Process](https://docs.google.com/presentation/d/1cEoPLJpZ6FVNLtW5f3jtWhgEeIhPv6eqWae85LAFPcs/edit?usp=sharing)
+* [Data Analysis with Jupyter and pandas](/docs/python/data_analysis_intro.md) Overview
+* Coding workshop: Work on [Final Project](projects/sf_data_analysis.md) or [FDA Recalls project][]
+
+#### Day 14 - NO CLASS
+
+Class canceled due to NICAR 23 conference. Please work on your final
+projects if you're not attending.
+
+
 
 [code libraries]: /docs/python/libraries.md
 [download remote files]: /docs/python/remote_files.md
