@@ -54,7 +54,7 @@ You *can*, for example, [run a Jupyter notebook on the command line][], similar 
 
 Another alternative is to [convert the Jupyter notebook to a standard Python script][]. This can provide an elegant way to generate more useful scripts for code that needs to run in non-graphical environments.
 
-For this course, however, we'll decouple "expensive" data acquisition steps from Jupyter in order to keep notebooks light-weight and focused on data wrangling and analysis.
+For this course, however, we'll decouple "expensive" data acquisition steps from Jupyter in order to keep notebooks light-weight and focused on data wrangling and analysis. Splitting our workflow in this way also provides opportunities to gain practice writing clean, well-organized code using functions and modules.
 
 [run a Jupyter notebook on the command line]: https://docs.jupyter.org/en/latest/running.html#using-a-command-line-interface
 [convert the Jupyter notebook to a standard Python script]: https://nbconvert.readthedocs.io/en/latest/usage.html#executable-script
