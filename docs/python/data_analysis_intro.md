@@ -37,9 +37,9 @@ As projects grow in size, it can be helpful to split a long Jupyter
 notebook into several smaller notebooks. For example, you might create a
 notebook to handle a long-running web scrape and preprocessing of data,
 along with additional notebooks for varying lines of analysis or
-different stories.
+different story angles.
 
-Also, you should consider running complex or time-consuming data acquisition processes **outside of Jupyter** using normal Python scripts, perhaps as part of a [multi-step data pipeline](data_pipelines_with_modules.md).
+Don't forget that you can run complex or time-consuming data acquisition processes **outside of Jupyter** using normal Python scripts, perhaps as part of a [multi-step data pipeline](data_pipelines_with_modules.md).
 
 Such pipelines, especially if they need to run on a regular basis, are often best suited for execution on virtual machines in the cloud that do not have a graphical environment. In such an environment, it can be easier to set up and debug a traditional Python script than a notebook.
 And of course, the data produced by such a script is always accessible to a Jupyter notebook during the analysis phase.
