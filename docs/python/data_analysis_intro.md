@@ -61,23 +61,9 @@ Below are a few resources that can help level up on [pandas][]:
 
 ## First Python Notebook
 
-The [First Python Notebook](http://www.firstpythonnotebook.org/) tutorial, created by data journalist Ben Welsh of The Los Angeles Times, is an excellent gentle introduction to Jupyter and pandas. In addition to introducing key features of Jupyter, it walks through basic pandas skills using California campaign finance data.
+The [First Python Notebook][] tutorial, created by data journalist Ben Welsh of The Los Angeles Times, is an excellent gentle introduction to Jupyter and pandas.
 
 It's worth taking the time to work through the entire tutorial.
 
-Below are links to key sections in case you've moved on to your own project and need a quick refresher on particular skills.
-
-  - [Reading data](http://www.firstpythonnotebook.org/dataframe/index.html#creating-a-dataframe)
-  - [DataFrame helpers](http://www.firstpythonnotebook.org/dataframe/index.html) (head, info, etc.)
-  - [Columns](http://www.firstpythonnotebook.org/value_counts/index.html)
-  - [Filtering](http://www.firstpythonnotebook.org/filter/index.html)
-  - [Merging](http://www.firstpythonnotebook.org/merge/index.html)
-  -  [Summing](http://www.firstpythonnotebook.org/totals/index.html) and [descriptive
-     stats](http://www.firstpythonnotebook.org/pandas/index.html#conduct-a-simple-data-analysis)
-     (min, max, median, describe, etc.)
-  - [Sorting](http://www.firstpythonnotebook.org/sort_values/index.html)
-  - [Groupby](http://www.firstpythonnotebook.org/groupby/index.html)
-  - [Charts](http://www.firstpythonnotebook.org/charts/index.html)
-
-
+[First Python Notebook]: https://palewi.re/docs/first-python-notebook/
 [pandas]: https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide
