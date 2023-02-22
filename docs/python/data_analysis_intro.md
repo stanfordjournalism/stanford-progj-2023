@@ -33,11 +33,28 @@ Jupyter is often used for all steps in a data project, from data acquisition thr
 
 A Jupyter-only workflow can be especially helpful on projects with relatively small data sets. By performing all data work in Jupyter, you can minimize context switching and technical overhead.
 
-However, complex or time-consuming data acquisition processes are not always a great fit for Jupyter. For example, a traditional Python script or [data pipeline](data_pipelines_with_modules.md) is arguably more appropriate for a complex web scraper that runs hourly and feeds an "evergreen" database. Of course, the data produced by such a script is always accessible to a Jupyter notebook.
+As projects grow in size, it can be helpful to split a long Jupyter
+notebook into several smaller notebooks. For example, you might create a
+notebook to handle a long-running web scrape and preprocessing of data,
+along with additional notebooks for varying lines of analysis or
+different stories.
 
-It's worth noting that it *is* possible to run heavy web scrapes in a Jupyter notebook. It's even possible to [run a Jupyter notebook on the command line](https://nbconvert.readthedocs.io/en/latest/usage.html#convert-notebook), similar to a standard Python script.
+Also, you should consider running complex or time-consuming data acquisition processes **outside of Jupyter** using normal Python scripts, perhaps as part of a [multi-step data pipeline](data_pipelines_with_modules.md).
+
+Such pipelines, especially if they need to run on a regular basis, are often best suited for execution on virtual machines in the cloud that do not have a graphical environment. In such an environment, it can be easier to set up and debug a traditional Python script than a notebook.
+And of course, the data produced by such a script is always accessible to a Jupyter notebook during the analysis phase.
+
+It should be noted that these recommendations are more a matter of taste
+than hard and fast rules.
+
+You *can*, for example, [run a Jupyter notebook on the command line][], similar to a standard Python script. However, debugging notebooks in such a command-line context can be a nightmare.
+
+Another alternative is to [convert the Jupyter notebook to a standard Python script][]. This can provide an elegant way to generate more useful scripts for code that needs to run in non-graphical environments.
 
 For this course, however, we'll decouple "expensive" data acquisition steps from Jupyter in order to keep notebooks light-weight and focused on data wrangling and analysis.
+
+[run a Jupyter notebook on the command line]: https://docs.jupyter.org/en/latest/running.html#using-a-command-line-interface
+[convert the Jupyter notebook to a standard Python script]: https://nbconvert.readthedocs.io/en/latest/usage.html#executable-script
 
 ## Narrative with Markdown
 
