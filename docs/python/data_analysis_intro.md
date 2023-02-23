@@ -4,7 +4,6 @@
 - [Jupyter use cases](#jupyter-use-cases)
 - [Narrative with Markdown](#narrative-with-markdown)
 - [pandas](#pandas)
-- [First Python Notebook](#first-python-notebook)
 
 ## Jupyter Notebooks
 
