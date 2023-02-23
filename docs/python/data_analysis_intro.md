@@ -71,19 +71,12 @@ pandas is a big library and its [official documentation](https://pandas.pydata.o
 
 Below are a few resources that can help level up on [pandas][]:
 
-- [First Python Notebook](#first-python-notebook)
+- [First Python Notebook][]
 - [Kaggle pandas tutorial](https://www.kaggle.com/learn/pandas)
 - [10 Minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - Pandas cheat sheets (print these\! They're awesome\!)
   -  [Data Wrangling](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - great overview of common data(frame) tasks such as merge, group, sort, filter, etc.
   -  [Pandas Basics for Data Science](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf) - includes pandas basics with details on working with CSV, Excel, and SQL. Just beware some of the syntax is out of date
-
-
-## First Python Notebook
-
-The [First Python Notebook][] tutorial, created by data journalist Ben Welsh of The Los Angeles Times, is an excellent gentle introduction to Jupyter and pandas.
-
-It's worth taking the time to work through the entire tutorial.
 
 [First Python Notebook]: https://palewi.re/docs/first-python-notebook/
 [pandas]: https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide

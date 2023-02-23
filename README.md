@@ -141,18 +141,27 @@ No class.
 
 ### Week 7
 
-#### Day 13 - Data Journalism Intro and Jupyter/Pandas
+#### Day 13 - NO CLASS
+
+Class canceled due to President's Day.
+
+#### Day 14 - Data Journalism Intro and Jupyter/Pandas
 
 * Discuss [data journalism readings](/assignments/dj_intro.md)
 * [Whirlwind Tour of the Data Journalism Process](https://docs.google.com/presentation/d/1cEoPLJpZ6FVNLtW5f3jtWhgEeIhPv6eqWae85LAFPcs/edit?usp=sharing)
 * [Data Analysis with Jupyter and pandas](/docs/python/data_analysis_intro.md) Overview
 * Coding workshop: Work on [Final Project](projects/sf_data_analysis.md) or [FDA Recalls project][]
 
-#### Day 14 - NO CLASS
+### Week 8
 
-Class canceled due to NICAR 23 conference. Please work on your final
-projects if you're not attending.
+#### Day 15 - Final Project Workshop
 
+* Final project check-ins
+* Coding workshop: Work on [Final Project][] or [FDA Recalls project][]
+
+#### Day 16 - NO CLASS
+
+Class canceled due to NICAR 23 conference. Please work on your final projects if you're not attending.
 
 
 [code libraries]: /docs/python/libraries.md
