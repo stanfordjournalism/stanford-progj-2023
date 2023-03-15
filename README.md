@@ -163,7 +163,28 @@ Class canceled due to President's Day.
 
 Class canceled due to NICAR 23 conference. Please work on your final projects if you're not attending.
 
+### Week 9
 
+#### Day 17 - Final Project Workshop
+
+* Final project check-ins
+* Coding workshop: Work on [Final Project][] or [FDA Recalls project][]
+
+#### Day 18 - Final Project Workshop
+
+* Coding workshop: Work on [Final Project][] or [FDA Recalls project][]
+
+### Week 10
+
+#### Day 19 - Final Project Presentations
+
+* [Final Project][] presentations
+
+#### Day 20 - Course review and what's next
+
+* [Course retrospective and next steps][]
+
+[Course retrospective and next steps]: https://docs.google.com/document/d/15Z_0gEfYxFnfcrDlkimbkzZbbbbiAzVtOteZWjOsZ2g/edit?usp=sharing
 [code libraries]: /docs/python/libraries.md
 [download remote files]: /docs/python/remote_files.md
 [work with CSVs]: /docs/python/csv.md
